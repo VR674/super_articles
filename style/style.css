@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+}
+
+.header_block {
+	position: relative;
+    height: 80px;
+    background: #2C3E59;
+    margin-bottom: 10px;
+}
+
+.header_text_container {
+	position: relative;
+	font-family: 'Arial';
+	color: white;
+	text-decoration: none;
+	font-size: 30px;
+	width: 80%;
+	height: 30px;
+	top: 50%;
+	margin: auto;
+}
+
+.header_text {
+	text-decoration: none;
+}
+
+.body_block {
+	width: 80%;
+	margin: auto;
+}
+
+.options_container {
+	width: 100%;
+}
+
+.search_cell {
+	width: 100%;
+}
+
+.search_line {
+	width: calc(100% - 90px);
+}
+
+.search_button {
+	width: 80px;
+}
+
+.creation_table {
+	width: 100%;
+}
+
+.name_field {
+	width: 100%;
+	margin-bottom:10px;
+}
+
+.text_field {
+	width: 100%;
+	height: 200px;
+	margin-bottom:10px;
+}
+
+.create_button {
+	float: right;
+}
